@@ -21,7 +21,7 @@ logger = logging.getLogger(__name__)
 
 # Configuration - CREDENTIALS EMBEDDED
 TELEGRAM_BOT_TOKEN = "8810691743:AAGtI3Gtp_XcHPATo8BQvoPNqYA9rkb-JBc"
-TELEGRAM_CHANNEL_ID = "@raahcabot"
+TELEGRAM_CHANNEL_ID = "@raahmppsc"
 TELEGRAM_API_URL = f"https://api.telegram.org/bot{TELEGRAM_BOT_TOKEN}/sendMessage"
 
 # User agents to avoid blocking
